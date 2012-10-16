@@ -1,0 +1,17 @@
+book:
+    title: "Guide du core développeur Dynacase"
+    module: "Anakeen"
+    version: "2012"
+    edition: "1"
+    githubsrc: "https://github.com/txiki31/dev-guide.git"
+    chapters: 
+        - number:  "1"
+          content: "introduction.md"        
+        - number:  "2"
+          content: "tracker.md"
+        - number:  "3" 
+          content: "coding-rules.md"
+        - number:  "4" 
+          content: "using-github.md"
+        - number:  "A1" 
+          content: "writing-markdown.md"
