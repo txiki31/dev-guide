@@ -1,6 +1,6 @@
 book:
-    title: "Guide du contributeur Dynacase"
-    module: "Anakeen"
+    title: "Contributeur Dynacase"
+    module: "Guides Anakeen"
     version: "2012"
     edition: "1"
     githubsrc: "https://github.com/Anakeen/dynacase-dev-guide.git"
